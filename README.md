@@ -18,6 +18,7 @@ I'm moving from crypto and equities research into AI engineering. I'm currently 
 - 22 DataCamp certificates, including Associate AI Engineer for Developers
 
 ### Repos to look at
+- [crypto-market-explorer](https://github.com/simonlivson/crypto-market-explorer): my hackathon project on crypto cycles, altseasons and coins that break away from Bitcoin, with a [live Streamlit dashboard](https://crypto-market-explorer.streamlit.app/)
 - [DI_Bootcamp](https://github.com/simonlivson/DI_Bootcamp): my bootcamp exercises and projects
 - [claude-skills](https://github.com/simonlivson/claude-skills): reusable Claude Skills, starting with a crypto whitepaper research-note skill
 - [Prompt Eval Lab](https://github.com/simonlivson/claude-skills/tree/main/prompt-eval-lab): A/B tests two prompts, with Claude grading each answer against a pass/fail rubric (structured prompt won 47/50 vs 18/50)
