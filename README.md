@@ -28,4 +28,4 @@ I'm moving from crypto and equities research into AI engineering. I'm currently 
 - [Hangman](https://github.com/simonlivson/DI_Bootcamp/blob/main/Week1/Day5/MiniProject2_Hangman/hangman.py): a command-line hangman game in Python, a week 1 bootcamp mini project
 
 ### Find me
-[LinkedIn](https://www.linkedin.com/in/simon-livson-8630626a) · [Hugging Face](https://huggingface.co/SimonIL) · simon.livson@gmail.com
+[LinkedIn](https://www.linkedin.com/in/simon-livson-8630626a) · [Hugging Face](https://huggingface.co/SimonIL) · [Kaggle](https://www.kaggle.com/SimonLivson) · [Portfolio](https://simonlivson.github.io) · simon.livson@gmail.com
